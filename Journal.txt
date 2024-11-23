@@ -1,0 +1,41 @@
+Hussein Heggi November 12, 7:29 PM: Created the program and added the RISC-V class.
+Youssef Elmahdy November 12, 8:55 PM: Finished R-Format instructions.
+Youssef Elmahdy November 12, 9:21 PM: Fixed sltu problem in R-Format instructions.
+Youssef Elmahdy November  12, 9:57 PM: Added Register File (RF) to the main and created RISC-V parametrized constructor with R_Sim method
+Youssef Elmahdy November  12, 11:09 PM: Finished the R_Sim Method and extracted rd, rs1, rs2
+Youssef Elmahdy November 12, 11:53 PM: Fixed string manipulation issue in the R_Format method, and correctly added the condition in which to call R_Sim
+Youssef Elmahdy November  13, 2:32 AM: Finished S-Format instruction without creating or editing in memory
+Youssef Elmahdy November 13, 4:00 AM: Added Memory 2-D array and integrated it in the S-Format instructions file
+Youssef Elmahdy November 13, 4:26 AM: Changed 2-D array to be a 2-D vector for better handling of data
+Hussein Heggi November 13, 11:57 PM: Changed the main to let the instructions be loaded from a txt file 
+Youssef Elmahdy November  13, 4:42 AM: Fixed issue with to_Denary and to_Binary in S-Format File.
+Youssef Elmahdy November 13, 7:30 PM: Fixed Problem in string manipulation to take x-10 to x-31 in R-Format and S-Format files
+Youssef Elmahdy November 13, 8:29 PM: Completed the S-Format instructions
+Youssef Elmahdy November 13, 9:22 PM: added the S_Sim Method to the RISC-V file and correctly extracted rs2, immediate, and rs1 to store in the correct place in memory and Fixed memory access issue.
+Youssef Elmahdy November 13, 10:15 PM: Fixed instruction format and string manipulation issue.
+Youssef Elmahdy November 13, 10:32 PM: Adjusted the memory to be incremented by 4 and all related memory issues.
+Youssef Elmahdy November 14, 12:15 AM: Finalized S_Format file.
+Youssef Elmahdy November 14, 4:02 PM: Changed Memory type to string and added instructions before
+Hussein Heggi November 14, 10:08 PM: Changed the main for the user to input the data anywhere in the memory
+Youssef Elmahdy November 15, 3:46 AM: Added PC to main
+Youssef Elmahdy November 15, 4:20 AM: Completed J-Format instructions
+Hussein Heggi November 15, 6:48 PM: Finalized the I-Format 
+Hussein Heggi November 15, 8:36 PM: Finalized the B-Format 
+Youssef Elmahdy November 15, 5:01 AM: Completed Adjustments and fixed issues in J-Format instructions
+Youssef Elmahdy November 15, 5:47 AM: Finished U-Format instructions.
+Hussein Heggi November 16, 7:09 PM: Integrated the PC counter with all instructions 
+Hussein Heggi November 17, 10:05 AM: Fixed the issue with I-Format where the immediate was calculated incorrectly 
+Hussein Heggi November 17, 3:24 PM: Collected all the instruction formats in one file named instructions
+Youssef Elmahdy November 17, 6:42 PM: Fixed Memory issue
+Youssef Elmahdy November 17, 7:15 PM: Added new Memory for binary instructions
+Youssef Elmahdy November 17, 9:02 PM: Added Binary Instructions to R-Format 
+Youssef Elmahdy November 17, 10:05 PM: Added Binary Instructions to S-Format
+Youssef Elmahdy November 17, 10:31 PM: Added Binary Instructions to J-Format
+Youssef Elmahdy November 17, 10:42 PM: Added Binary Instructions to U-Format
+Youssef Elmahdy November 17, 11:22 PM: Added Binary Instructions to I-Format
+Youssef Elmahdy November 18, 12:15 AM: Added Binary Instructions to B-Format
+Youssef Elmahdy November 18, 1:00 AM: Integrated Binary Instructions to RISC-V File
+Youssef Elmahdy November 19, 7:55 PM: Finished R test cases
+Youssef Elmahdy November 19, 8:05 PM: Finished J and U test cases
+Youssef Elmahdy November 19, 9:37 PM: Finished Implementation, Design and Assumptions, Known bugs, and challenges faced in report
+Youssef Elmahdy November 20, 12:35 AM: Finished Report
